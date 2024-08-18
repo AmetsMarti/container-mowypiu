@@ -1,15 +1,16 @@
 {
-  "dependencies": {
-    "express": "^4.19.2",
-    "mysql2": "^3.9.3"
-  },
-  "name": "app",
-  "description": "The version of node you use is very important. Let's use `nvm` (node version manager) to make sure you're at least using an `LTS` (long term stable) release of Node.",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+    "name": "thedb-backend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.19.2",
+        "mysql": "^2.18.1"
+    },
+    "author": "Amets Martiarena Elosegi",
+    "license": "ISC"
 }
