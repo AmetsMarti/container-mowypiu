@@ -1,3 +1,15 @@
+# v0.0.2 (Sun Aug 18 2024)
+
+#### ⚠️ Pushed to `main`
+
+- First commit ([@AmetsMarti](https://github.com/AmetsMarti))
+
+#### Authors: 1
+
+- Amets Martiarena Elosegi ([@AmetsMarti](https://github.com/AmetsMarti))
+
+---
+
 # v0.0.1 (Sun Aug 18 2024)
 
 :tada: This release contains work from a new contributor! :tada:
